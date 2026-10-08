@@ -1,0 +1,10 @@
+{
+  "name": "pnpm-learning",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "pnpm --filter @learn/app start",
+    "build:all": "pnpm -r build"
+  },
+  "devDependencies": {}
+}

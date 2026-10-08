@@ -1,0 +1,12 @@
+{
+  "name": "@learn/shared",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "build": "echo '@learn/shared: build 完成(示例无实际构建步骤)'"
+  },
+  "dependencies": {
+    "lodash-es": "^4.17.21"
+  }
+}

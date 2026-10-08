@@ -1,0 +1,14 @@
+{
+  "name": "@learn/app",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "build": "echo '@learn/app: build 完成(示例无实际构建步骤)'"
+  },
+  "dependencies": {
+    "@learn/shared": "workspace:*",
+    "dayjs": "^1.11.13"
+  }
+}
